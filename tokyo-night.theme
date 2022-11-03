@@ -29,14 +29,14 @@ set color_statusline_fg=153
 
 # the songs title is displayed here
 set color_titleline_bg=232
-set color_titleline_fg=80
+set color_titleline_fg=080
 
 # the colors of the main window
 set color_win_bg=default
 set color_win_fg=069
 
 # color of the active entries when not selected
-set color_win_cur=069
+set color_win_cur=080
 
 # maybe sets the colors of a different layout?
 set color_win_dir=130
